@@ -23,6 +23,7 @@ node stats.js
 ## Exercises 03: ( Create a local server and the routes )
 - Using module 'http' and the previous modules
 - - 'http', 'path', fs'
+- Dependency (nodemon) was used, to reload server automatic
 - Run the code your machine
 ```
 npm install
