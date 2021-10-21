@@ -1,0 +1,20 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> <h1>MasterClass Exercises Nodejs - Rocketseat</h1> </div>",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitaopb/MasterClass-Exercises-Nodejs----Rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitaopb/MasterClass-Exercises-Nodejs----Rocketseat/issues"
+  },
+  "homepage": "https://github.com/Vitaopb/MasterClass-Exercises-Nodejs----Rocketseat#readme"
+}
