@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://discover.fcamara.dev/wp-content/themes/fcamara/img/footer/rocketseat.png"/>
 <h1>MasterClass Exercises Nodejs - Rocketseat</h1>
 </div>
 
