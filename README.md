@@ -25,6 +25,8 @@ node stats.js
 - Using module 'http' and the previous modules
 - - 'http', 'path', fs'
 - Dependency (nodemon) was used, to reload server automatic
+- Front-End:
+- - Was used in the html, css and javascript front-end, and using the 'fs' and the 'path' module. <br> we were able to pull these files and spit them out in the browser
 - Run the code your machine
 ```
 npm install
