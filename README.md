@@ -11,7 +11,7 @@ node stats.js
 ```
 <hr>
 
-## Exercises 02: ( Adding datas from archive 'pc stats' in a archive txt )
+## Exercises 02: ( Adding datas from archive 'pc stats' in archive txt )
 - Using modules 'events, fs, path'
 - AppendFile, path.join and dirname were used to search the txt file
 - Use JSON.stringfy() to convert archive
@@ -65,3 +65,6 @@ npm run api
 - Using request fetch and call the url from API
 <hr>
 
+## Complementary links:
+- Link of Masterclass in youtube ( [Click here](https://www.youtube.com/watch?v=DiXbJL3iWVs) )
+- Link of mental map build in class ( [Click here](https://whimsical.com/node-js-PRf8QedsoRMPtc6hmN63gg) )
