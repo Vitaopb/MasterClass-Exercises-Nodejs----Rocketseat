@@ -29,10 +29,40 @@ node stats.js
 - - Was used in the html, css and javascript front-end, and using the 'fs' and the 'path' module. <br> we were able to pull these files and spit them out in the browser
 - Run the code your machine
 ```
+cd serve in node
+```
+
+```
 npm install
 ```
+
 ```
 npm start
 ```
 - Open your browser and write ( localhost:5000 )
 <hr> 
+
+## Exercises 04: ( Creating a API )
+- Using module 'url' and previous modules
+- How it work?
+- - We were able to create and delete URLs, it save in archive 'urls.json' 
+- - Return a Json file with an 'Ok' message
+- Running in your machine
+- Execute the command to enter archive
+```
+cd server in node
+cd api
+```
+- Execute below command to start the API
+
+```
+npm run api
+```
+<hr>
+
+## Exercises 05: ( Consuming the API )
+- Now go consuming the api in Front-end
+- Using request fetch and call the url from API
+<hr>
+
+## Exercises 06: (  )
