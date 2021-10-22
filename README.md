@@ -65,4 +65,3 @@ npm run api
 - Using request fetch and call the url from API
 <hr>
 
-## Exercises 06: (  )
